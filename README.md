@@ -1,1 +1,3 @@
-# Ana-Camila
+# Ana-CamilaAs licenças Creative Commons são ferramentas legais que ajudam você a conceder permissões de direitos autorais ao público em geral. Nossas ferramentas legais CC incluem seis licenças diferentes e uma ferramenta de dedicação de domínio público . É importante especificar qual das 7 ferramentas legais você está aplicando ao seu material. O seletor de licenças pode ajudar você a decidir qual licença é a certa para você.
+
+As licenças CC podem ser aplicadas a qualquer tipo de trabalho protegido por direitos autorais. Os únicos tipos de trabalhos para os quais a CC não recomenda suas licenças são software e hardware de computador, onde recomendamos uma licença de software livre padrão. Para trabalhos que já estão em domínio público, recomendamos que você os marque com a Public Domain Mark . Se você detém os direitos de um trabalho, mas gostaria de colocá-lo em domínio público, você pode usar o Chooser para selecionar CC0.
